@@ -1,2 +1,3 @@
-# LeetCode-Solutions-2.0
-My solutions to LeetCode problems in Java and etc”
+# LeetCode Solutions
+My solutions to LeetCode problems in Java and etc.
+Organized by language and difficulty.
